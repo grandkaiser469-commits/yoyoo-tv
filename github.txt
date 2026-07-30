@@ -1,4 +1,4 @@
-Ulusal Kanallar | https://i.ibb.co/TB3QnbTY/1785344965386.png
+Ulusal Kanallar |
 CANLI | TRT 1 | https://upload.wikimedia.org/wikipedia/commons/3/31/TRT_1_logo_%282020-2021%29.svg | https://tv-trt1.medya.trt.com.tr/master.m3u8
 CANLI | Kanal D - A | https://upload.wikimedia.org/wikipedia/tr/1/1c/KANALD_HD.png | https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 CANLI | Kanal D - B | https://upload.wikimedia.org/wikipedia/tr/1/1c/KANALD_HD.png | https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
@@ -22,7 +22,7 @@ CANLI | Beyaz TV - B | https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_l
 CANLI | Flash Haber | https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flash_haber_tv_2025.png/960px-Flash_haber_tv_2025.png | https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 CANLI | TV 8.5 | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDy6E8fcaNF7jLDxiqhIXos3ilbqre1HCrq9kjuv2Tk1kjkKKaIz8igM&s=10 | https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
-Haber & Ekonomi | https://i.ibb.co/RTFrLP4S/1785344861891.png
+Haber & Ekonomi |
 CANLI | TRT Haber | https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png | https://tv-trthaber.medya.trt.com.tr/master.m3u8
 CANLI | NTV - A | https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png | https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 CANLI | NTV - B | https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png | https://dogus-live.daioncdn.net/ntv/playlist.m3u8
@@ -33,14 +33,14 @@ CANLI | TGRT Haber | https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Ha
 CANLI | Aksu TV | https://www.aksutv.com.tr/temalar/AksuV1/assets/style/images/about-img.png | https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 CANLI | CNBC-E | https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png | https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-Spor Canlı | https://i.ibb.co/8SbJ66v/1785345501485.png
+Spor Canlı |
 CANLI | TRT Spor | https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png | https://tv-trtspor1.medya.trt.com.tr/master.m3u8 | TRT Spor Canlı Yayın
 CANLI | TRT Spor Yıldız | https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg | https://tv-trtspor2.medya.trt.com.tr/master.m3u8 | TRT Spor Yıldız Canlı Yayın
 CANLI | A Spor | https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png | https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8 | A Spor Canlı Yayın
 CANLI | FB TV | https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg | http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8 | FB TV Canlı Yayın
 CANLI | GS TV | https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG | https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8 | GS TV Canlı Yayın
 
-Popüler Animasyon Film Serileri | https://i.ibb.co/wZHPPs8K/1785345180072.png
+Popüler Animasyon Film Serileri | 
 FILM | Buz Devri 1 | https://upload.wikimedia.org/wikipedia/tr/a/ad/Buz_Devri_afis.jpg | https://srv12.cdnimages1821.shop/hls/iceage-1-2002-trdualmp4-izX8CaOG73r.mp4/txt/sublist_2.txt / https://srv12.cdnimages1698.shop/hls/iceage-1-2002-trdualmp4-izX8CaOG73r.mp4/txt/sublist_aud1.txt | Dünya buzlaşmaya başlarken huysuz bir mamut, gamsız bir tembel hayvan ve sinsice yaklaşan bir kılıç dişli kaplan, kaybolan insan bebeğini ailesine ulaştırmak için beklenmedik bir yolculuğa çıkar. Kahkaha ve dostluk dolu unutulmaz bir macera! | 7.5
 FILM | Buz Devri 2: Erime Başlıyor | https://upload.wikimedia.org/wikipedia/tr/e/e5/Buz_Devri_2_Erime_Ba%C5%9Fl%C4%B1yor.jpg | https://srv12.cdnimages2295.shop/hls/iceage-2-2006-trdualmp4-shY2tZLGGj7.mp4/txt/sublist_2.txt / https://srv12.cdnimages2295.shop/hls/iceage-2-2006-trdualmp4-shY2tZLGGj7.mp4/txt/sublist_aud1.txt | Tehlike büyüyor, sular yükseliyor! Çılgın opossum kardeşler Crash ve Eddie'nin ekibe katılmasıyla maceranın dozu ikiye katlanıyor. Scrat ise yine o meşhur meşe palamudunun peşinde felaketlere yol açmaya devam ediyor. | 6.8
 FILM | Buz Devri 3: Dinozorların Şafağı | https://upload.wikimedia.org/wikipedia/tr/e/e2/Buz_Devri_3_Dinozorlar%C4%B1n_%C5%9Eafa%C4%9F%C4%B1.jpg | https://srv12.cdnimages1898.shop/hls/iceage-3-dawnofthedinosaurs-2009-trdualmp4-yiae8Lao4DE.mp4/txt/sublist_2.txt / https://srv12.cdnimages1898.shop/hls/iceage-3-dawnofthedinosaurs-2009-trdualmp4-yiae8Lao4DE.mp4/txt/sublist_aud1.txt | Sid'in bulduğu dinazor yumurtalarını sahiplenmesiyle başlayan macera, ekibimizi buzların altındaki gizemli ve devasa bir dinazor dünyasına sürükler. Tek gözlü çılgın gelincik Buck'ın önderliğinde ekip, Sid'i kurtarmak için tehlikeli yaratıklarla dolu bu yeni dünyada maceraya atılır! | 6.9
