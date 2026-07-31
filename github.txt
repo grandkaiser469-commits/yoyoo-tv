@@ -65,4 +65,5 @@ DIZI | Deli Yürek | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9sl
 DIZI | Leyla ile Mecnun 1. Sezon 1. Bölüm | https://poster.jpg | https://stream-linki.m3u8 | Açıklama | 9.1
 DIZI | Leyla ile Mecnun 1. Sezon 2. Bölüm | https://poster.jpg | https://stream-linki.m3u8 | Açıklama | 9.1
 DIZI | Leyla ile Mecnun 2. Sezon 1. Bölüm | https://poster.jpg | https://stream-linki.m3u8 | Açıklama | 9.1
+NEXT_TXT | https://linktotxt.com/linktotxt.txt
 
