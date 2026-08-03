@@ -1,40 +1,40 @@
-BÖLÜM | S1B1: 1. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photomag.biz/v/Gravity.Falls.S01E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/720.m3u8 | Esrarengiz Kasaba 1. Sezon 1. Bölüm | 8.5 | 1
-BÖLÜM | S1B2: 2. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photomag.biz/v/Gravity.Falls.S01E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/360.m3u8 | Esrarengiz Kasaba 1. Sezon 2. Bölüm | 8.5 | 1
-BÖLÜM | S1B3: 3. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photour.org/v/Gravity.Falls.S01E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/360.m3u8 | Esrarengiz Kasaba 1. Sezon 3. Bölüm | 8.5 | 1
-BÖLÜM | S1B4: 4. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photomag.biz/v/Gravity.Falls.S01E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/360.m3u8 | Esrarengiz Kasaba 1. Sezon 4. Bölüm | 8.5 | 1
-BÖLÜM | S1B5: 5. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photostack.net/v/Gravity.Falls.S01E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 5. Bölüm | 8.5 | 1
-BÖLÜM | S1B6: 6. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photoflix.org/v/Gravity.Falls.S01E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 6. Bölüm | 8.5 | 1
-BÖLÜM | S1B7: 7. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflick.org/v/Gravity.Falls.S01E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 7. Bölüm | 8.5 | 1
-BÖLÜM | S1B8: 8. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photoflick.org/v/Gravity.Falls.S01E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 8. Bölüm | 8.5 | 1
-BÖLÜM | S1B9: 9. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photoflix.org/v/Gravity.Falls.S01E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 9. Bölüm | 8.5 | 1
-BÖLÜM | S1B10: 10. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photostack.net/v/Gravity.Falls.S01E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 10. Bölüm | 8.5 | 1
-BÖLÜM | S1B11: 11. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflick.org/v/Gravity.Falls.S01E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 11. Bölüm | 8.5 | 1
-BÖLÜM | S1B12: 12. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 12. Bölüm | 8.5 | 1
-BÖLÜM | S1B13: 13. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 13. Bölüm | 8.5 | 1
-BÖLÜM | S1B14: 14. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 14. Bölüm | 8.5 | 1
-BÖLÜM | S1B15: 15. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 15. Bölüm | 8.5 | 1
-BÖLÜM | S1B16: 16. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 16. Bölüm | 8.5 | 1
-BÖLÜM | S1B17: 17. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 17. Bölüm | 8.5 | 1
-BÖLÜM | S1B18: 18. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 18. Bölüm | 8.5 | 1
-BÖLÜM | S1B19: 19. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 19. Bölüm | 8.5 | 1
-BÖLÜM | S1B20: 20. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 1. Sezon 20. Bölüm | 8.5 | 1
-BÖLÜM | S2B1: 1. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 1. Bölüm | 8.9 | 2
-BÖLÜM | S2B2: 2. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 2. Bölüm | 8.9 | 2
-BÖLÜM | S2B3: 3. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 3. Bölüm | 8.9 | 2
-BÖLÜM | S2B4: 4. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 4. Bölüm | 8.9 | 2
-BÖLÜM | S2B5: 5. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 5. Bölüm | 8.9 | 2
-BÖLÜM | S2B6: 6. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 6. Bölüm | 8.9 | 2
-BÖLÜM | S2B7: 7. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 7. Bölüm | 8.9 | 2
-BÖLÜM | S2B8: 8. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 8. Bölüm | 8.9 | 2
-BÖLÜM | S2B9: 9. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 9. Bölüm | 8.9 | 2
-BÖLÜM | S2B10: 10. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 10. Bölüm | 8.9 | 2
-BÖLÜM | S2B11: 11. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 11. Bölüm | 8.9 | 2
-BÖLÜM | S2B12: 12. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 12. Bölüm | 8.9 | 2
-BÖLÜM | S2B13: 13. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 13. Bölüm | 8.9 | 2
-BÖLÜM | S2B14: 14. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 14. Bölüm | 8.9 | 2
-BÖLÜM | S2B15: 15. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 15. Bölüm | 8.9 | 2
-BÖLÜM | S2B16: 16. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 16. Bölüm | 8.9 | 2
-BÖLÜM | S2B17: 17. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 17. Bölüm | 8.9 | 2
-BÖLÜM | S2B18: 18. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 18. Bölüm | 8.9 | 2
-BÖLÜM | S2B19: 19. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 19. Bölüm | 8.9 | 2
-BÖLÜM | S2B20: 20. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8 | Esrarengiz Kasaba 2. Sezon 20. Bölüm | 8.9 | 2
+BÖLÜM | S1B1: 1. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photomag.biz/v/Gravity.Falls.S01E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/720.m3u8
+BÖLÜM | S1B2: 2. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photomag.biz/v/Gravity.Falls.S01E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/360.m3u8
+BÖLÜM | S1B3: 3. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photour.org/v/Gravity.Falls.S01E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/360.m3u8
+BÖLÜM | S1B4: 4. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photomag.biz/v/Gravity.Falls.S01E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/360.m3u8
+BÖLÜM | S1B5: 5. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photostack.net/v/Gravity.Falls.S01E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B6: 6. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photoflix.org/v/Gravity.Falls.S01E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B7: 7. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflick.org/v/Gravity.Falls.S01E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B8: 8. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photoflick.org/v/Gravity.Falls.S01E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B9: 9. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photoflix.org/v/Gravity.Falls.S01E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B10: 10. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs21.photostack.net/v/Gravity.Falls.S01E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B11: 11. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflick.org/v/Gravity.Falls.S01E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B12: 12. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B13: 13. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B14: 14. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B15: 15. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B16: 16. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B17: 17. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B18: 18. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B19: 19. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S1B20: 20. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S01E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B21: 21. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B22: 22. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B23: 23. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B24: 24. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B25: 25. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B26: 26. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B27: 27. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B28: 28. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B29: 29. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B30: 30. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B31: 31. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B32: 32. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B33: 33. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B34: 34. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B35: 35. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B36: 36. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B37: 37. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B38: 38. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B39: 39. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
+BÖLÜM | S2B40: 40. Bölüm | https://image.tmdb.org/t/p/w500/811.jpg | https://vs22.photoflix.org/v/Gravity.Falls.S02E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/1080.m3u8
