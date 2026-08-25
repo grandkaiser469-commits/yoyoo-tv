@@ -1,0 +1,150 @@
+#0001 | Komedi
+#0002 | Dram
+#0003 | Aksiyon
+#0004 | Macera
+#0005 | Bilim Kurgu
+#0006 | Korku
+#0007 | Gerilim
+#0008 | Suç
+#0009 | Polisiye
+#0010 | Gizem
+#0011 | Romantik
+#0012 | Fantastik
+#0013 | Animasyon
+#0014 | Aile
+#0015 | Çizgi Film
+#0016 | Belgesel
+#0017 | Biyografi
+#0018 | Tarih
+#0019 | Savaş
+#0020 | Western
+#0021 | Müzikal
+#0022 | Spor
+#0023 | Süper Kahraman
+#0024 | Anime
+#0025 | Dini & Manevi
+#0026 | Yerli Film
+#0027 | Yabancı Film
+#0028 | Yeşilçam Klasikleri
+#0029 | Nostalji
+#0030 | Kısa Film
+#0031 | Sanat Filmi
+#0032 | Bağımsız Film
+#0033 | Kara Komedi
+#0034 | Romantik Komedi
+#0035 | Gençlik
+#0036 | Okul & Lise
+#0037 | Psikolojik Gerilim
+#0038 | Slasher
+#0039 | Paranormal
+#0040 | Zombi
+#0041 | Kıyamet Sonrası
+#0042 | Distopya
+#0043 | Uzay & Galaksi
+#0044 | Siberpunk
+#0045 | Zaman Yolculuğu
+#0046 | Paralel Evren
+#0047 | Yapay Zekâ
+#0048 | Uzaylılar
+#0049 | Canavar & Yaratık
+#0050 | Mitoloji
+#0051 | Orta Çağ
+#0052 | Tarihi Savaşlar
+#0053 | Ajan & Casusluk
+#0054 | Mafya & Organize Suç
+#0055 | Hapishane
+#0056 | Soygun & Heist
+#0057 | Dedektiflik
+#0058 | Mahkeme & Hukuk
+#0059 | Seri Katil
+#0060 | Kaçış & Hayatta Kalma
+#0061 | Doğal Felaket
+#0062 | Deniz & Okyanus
+#0063 | Vahşi Doğa
+#0064 | Yol Hikayesi
+#0065 | Köpekbalığı
+#0066 | Askeri & Ordu
+#0067 | Havacılık & Uçak
+#0068 | Otomobil & Yarış
+#0069 | Dövüş Sanatları
+#0070 | Boks
+#0071 | Futbol
+#0072 | Basketbol
+#0073 | Extreme Sporlar
+#0074 | Dans & Müzik
+#0075 | Konser & Sahne
+#0076 | Stand-Up
+#0077 | Tiyatro Uyarlaması
+#0078 | Kitap Uyarlaması
+#0079 | Çizgi Roman Uyarlaması
+#0080 | Manga Uyarlaması
+#0081 | Oyun Uyarlaması
+#0082 | Gerçek Hikaye
+#0083 | Dönem Filmi
+#0084 | Otobiyografi
+#0085 | Politik & Siyaset
+#0086 | Borsa & Finans
+#0087 | Medya & Gazetecilik
+#0088 | Tıp & Hastane
+#0089 | Bilim & Teknoloji
+#0090 | Felsefi & Düşündürücü
+#0091 | Sürrealist
+#0092 | Kült Filmler
+#0093 | Festival Ödüllü
+#0094 | Oscar Ödüllü
+#0095 | Sinema Başyapıtları
+#0096 | Popüler Seri
+#0097 | İkincil Şans
+#0098 | Arkadaşlık & Dostluk
+#0099 | Kardeşlik
+#0100 | İntikam
+#0101 | Adalet
+#0102 | Gizli Örgütler
+#0103 | Komplo Teorisi
+#0104 | Dedektif Noir
+#0105 | Büyü & Sihir
+#0106 | Ejderhalar
+#0107 | Vampir & Kurtadam
+#0108 | Peri Masalı
+#0109 | Çocuk & Minikler
+#0110 | Okul Öncesi
+#0111 | Eğitici Animasyon
+#0112 | 3D Animasyon
+#0113 | 2D Klasik Animasyon
+#0114 | Stop-Motion
+#0115 | Şiirsel & Duygusal
+#0116 | Aile İçi İlişkiler
+#0117 | Yetişkin Animasyon
+#0118 | Web Dizisi
+#0119 | Minidizi
+#0120 | Unutulmayan Diziler
+#0121 | Sitcom
+#0122 | Kore Draması (K-Drama)
+#0123 | Japon Animesi
+#0124 | İspanyol Yapımı
+#0125 | İskandinav Polisiye
+#0126 | İngiliz Komedisi
+#0127 | Fransız Sineması
+#0128 | İtalyan Klasikleri
+#0129 | Uzak Doğu Sineması
+#0130 | Bollywood
+#0131 | Vahşi Batı & Kovboy
+#0132 | Gelecek & Robotlar
+#0133 | Zaman Döngüsü
+#0134 | Gizli Kimlik
+#0135 | Akıl Oyunları
+#0136 | Bilişsel Gerilim
+#0137 | Cadılar & Lanetler
+#0138 | Exorcism & Ruhlar
+#0139 | Uzay Macerası
+#0140 | Su Altı Dünyası
+#0141 | Ekstrem Doğa Olayları
+#0142 | Biyo-Korku (Bio-hazard)
+#0143 | Salgın & Pandemi
+#0144 | Hacker & Siber Suç
+#0145 | Şehir Efsaneleri
+#0146 | Epik Savaşlar
+#0147 | Şövalyeler & Krallıklar
+#0148 | Çöl Maceraları
+#0149 | Kutup & Kar Hikayeleri
+#0150 | Yaz & Tatil
